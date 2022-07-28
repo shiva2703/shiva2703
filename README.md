@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, web dev and cyber security.
 - 🌱 I’m currently learning c++,node.js,java
 - 💞️ I’m looking to collaborate on anything and everything.
-- 📫 How to reach me .... My email is :- massshiva33@gmail.com
+- 📫 How to reach me .... My email is :- shivaedu33@gmail.com
 
 <!---
 shiva2703/shiva2703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
